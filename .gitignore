@@ -1,0 +1,9 @@
+venvs
+*.csv
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+src/config.ini
+data/
+docs/
+docs
